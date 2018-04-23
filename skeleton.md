@@ -1,0 +1,2 @@
+All column based elements conform to take up and entire row, So the whole site can be read verticaly. 
+This works by making media queries in the CSS which changes the width of the boxed element to take up 100% screen space when the window size is bellow 550px. This indicates an approach where the design begins from a mobile format. 
